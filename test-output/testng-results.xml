@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="208568" started-at="2018-06-08T11:12:58Z" finished-at="2018-06-08T11:16:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="208568" started-at="2018-06-08T11:12:58Z" finished-at="2018-06-08T11:16:27Z">
+      <class name="testcases.Verify_SharingActions">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.Verify_SharingActions@5cb137]" name="setup" is-config="true" duration-ms="9608" started-at="2018-06-08T16:42:58Z" finished-at="2018-06-08T16:43:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="RAF_login()[pri:1, instance:testcases.Verify_SharingActions@5cb137]" name="RAF_login" duration-ms="21827" started-at="2018-06-08T16:43:08Z" finished-at="2018-06-08T16:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RAF_login -->
+        <test-method status="PASS" signature="FacebookSharing()[pri:2, instance:testcases.Verify_SharingActions@5cb137]" name="FacebookSharing" duration-ms="69818" started-at="2018-06-08T16:43:29Z" finished-at="2018-06-08T16:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookSharing -->
+        <test-method status="PASS" signature="TwitterSharing()[pri:3, instance:testcases.Verify_SharingActions@5cb137]" name="TwitterSharing" duration-ms="49558" started-at="2018-06-08T16:44:39Z" finished-at="2018-06-08T16:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwitterSharing -->
+        <test-method status="PASS" signature="Emailsharing()[pri:4, instance:testcases.Verify_SharingActions@5cb137]" name="Emailsharing" duration-ms="26354" started-at="2018-06-08T16:45:29Z" finished-at="2018-06-08T16:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emailsharing -->
+        <test-method status="PASS" signature="Managerewardsection()[pri:5, instance:testcases.Verify_SharingActions@5cb137]" name="Managerewardsection" duration-ms="15783" started-at="2018-06-08T16:45:55Z" finished-at="2018-06-08T16:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Managerewardsection -->
+        <test-method status="PASS" signature="Referralstatus()[pri:6, instance:testcases.Verify_SharingActions@5cb137]" name="Referralstatus" duration-ms="15559" started-at="2018-06-08T16:46:11Z" finished-at="2018-06-08T16:46:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Referralstatus -->
+      </class> <!-- testcases.Verify_SharingActions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
